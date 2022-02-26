@@ -4,4 +4,4 @@ Running the code will give you the circuit diagram in vector graphics format and
 
 The circuit and output can be customized with minimal change in the code.
 
-## v0.0
+## v1.0
